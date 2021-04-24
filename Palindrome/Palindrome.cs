@@ -29,7 +29,6 @@ namespace Palindrome
             else
             {
                 returnValue = "Not Accepted";
-
             }
 
             return returnValue;

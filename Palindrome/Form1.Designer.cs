@@ -39,7 +39,7 @@ namespace Palindrome
             this.btnCheck.Name = "btnCheck";
             this.btnCheck.Size = new System.Drawing.Size(75, 23);
             this.btnCheck.TabIndex = 0;
-            this.btnCheck.Text = "button1";
+            this.btnCheck.Text = "Check";
             this.btnCheck.UseVisualStyleBackColor = true;
             this.btnCheck.Click += new System.EventHandler(this.btnCheck_Click);
             // 
@@ -47,7 +47,7 @@ namespace Palindrome
             // 
             this.tbUserInput.Location = new System.Drawing.Point(69, 77);
             this.tbUserInput.Name = "tbUserInput";
-            this.tbUserInput.Size = new System.Drawing.Size(306, 20);
+            this.tbUserInput.Size = new System.Drawing.Size(305, 20);
             this.tbUserInput.TabIndex = 1;
             // 
             // Form1
